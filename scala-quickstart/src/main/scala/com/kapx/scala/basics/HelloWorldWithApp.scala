@@ -1,5 +1,5 @@
 package com.kapx.scala.basics
 
-object HelloWorld extends App {
+object HelloWorldWithApp extends App {
     println("Hello World!")
 }
