@@ -1,0 +1,2 @@
+https://blog.udemy.com/scala-tutorial-getting-started-with-scala/
+http://www.scalatest.org/user_guide
