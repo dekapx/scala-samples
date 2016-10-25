@@ -13,8 +13,8 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <scala.version>2.11.8</scala.version>
         <scala.compat.version>2.11</scala.compat.version>
-        <specs2-core.version>3.8.4</specs2-core.version>
-        <scalatest.version>2.2.6</scalatest.version>
+        <specs2-core.version>3.8.5.1</specs2-core.version>
+        <scalatest.version>3.0.0</scalatest.version>
 		<junit.version>4.12</junit.version>
 
         <scala-maven-plugin.version>3.2.2</scala-maven-plugin.version>
