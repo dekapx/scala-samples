@@ -5,7 +5,7 @@ object VariableDemo {
 
     def main(args: Array[String]) {
         println(message);
-        
+
         val num = 10;
         val str = "Hello Scala";
         println(num);
