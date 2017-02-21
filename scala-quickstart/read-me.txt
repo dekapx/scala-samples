@@ -1,4 +1,18 @@
-https://blog.udemy.com/scala-tutorial-getting-started-with-scala/
-http://www.scalatest.org/user_guide
-http://www.tutorialspoint.com/scala/
-http://www.scalatest.org/
+Video Tutotials
+http://fruzenshtein-school.usefedora.com/courses/enrolled/scala-oop-basics
+
+Online Resources
+https://www.tutorialspoint.com/scala/index.htm
+http://www.java2s.com/Tutorials/Java/Scala/index.htm
+http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/
+http://tutorials.jenkov.com/scala/index.html
+http://samwize.com/2012/10/07/a-short-scala-tutorial-for-java-developers/
+https://www.pluralsight.com/courses/scala-for-java-developers
+http://robertovormittag.net/tutorials/learn-scala-in-30-minutes-a-tutorial-for-java-programmers/
+http://gibbon.co/c/c89618b0-acc3-4ae0-bcb9-0f38730bd47e/a-scala-tutorial-for-java-programmers
+https://www.javacodegeeks.com/tutorials/scala-tutorials/
+http://joelabrahamsson.com/learning-scala/
+https://guides.co/g/how-to-learn-scala/27734
+http://allaboutscala.com/
+http://www.whoishostingthis.com/resources/scala/
+https://www.toptal.com/scala/why-should-i-learn-scala
