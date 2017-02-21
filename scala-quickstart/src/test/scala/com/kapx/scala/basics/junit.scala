@@ -6,8 +6,17 @@ import org.junit._
 @Test
 class HelloWorldTest {
 
+    @Before
+    def setup(): Unit = {
+    }
+
     @Test
-    def testOK() = assertTrue(true)
+    def sayHello_withValidInput_returnValidOutput(): Unit = {
+        val objUnderTest = new HelloWorld()
+        val actual = objUnderTest.sayHello("DeKapx")
+        val expected = "Hello ! DeKapx"
+        assertEquals(expected, actual)
+    }
 
 }
 
