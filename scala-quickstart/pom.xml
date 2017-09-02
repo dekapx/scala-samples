@@ -13,9 +13,9 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <scala.version>2.12.1</scala.version>
         <scala.compat.version>2.12</scala.compat.version>
-        <specs2-core.version>3.8.6</specs2-core.version>
+        <specs2-core.version>3.8.9</specs2-core.version>
         <scalatest.version>3.0.1</scalatest.version>
-		<junit.version>4.12</junit.version>
+        <junit.version>4.12</junit.version>
 
         <scala-maven-plugin.version>3.2.2</scala-maven-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
@@ -40,6 +40,11 @@
             <artifactId>scalatest_${scala.compat.version}</artifactId>
             <version>${scalatest.version}</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.specs2</groupId>
+            <artifactId>specs2-junit_${scala.compat.version}</artifactId>
+            <version>${specs2-core.version}</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -88,3 +93,4 @@
         </plugins>
     </build>
 </project>
+
